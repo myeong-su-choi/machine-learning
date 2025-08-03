@@ -8,6 +8,10 @@
 
 - 제조 데이터의 분류기 실습 [✓](https://colab.research.google.com/drive/1psSjJE-dBBAcjm8TTavRGFdm4d16p2uu?usp=sharing)
 
+- 신경망으로 붓꽃 데이터 분류 실습 [✓](https://colab.research.google.com/drive/1lIp9Dp8DPE-zCJomEvM9LH0M4Q1VWXrM?usp=sharing)
+
+- 신경망으로 Fashion MNIST 분류 실습 [✓](https://colab.research.google.com/drive/1agBvTolSz0n4pK5D9Ifi5-gb7RIJHZJm?usp=sharing)
+
 #### 회귀
 - 자전거 대여량 예측 모델 실습 [✓](https://colab.research.google.com/drive/1lrr4daPLfzf5NhYJnXahFp0aeBFcGU5X?usp=sharing)
 
